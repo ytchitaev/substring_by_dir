@@ -1,6 +1,6 @@
 '''
-python substring_by_dir.py --dir C:\git\rea\Datahub\DataHub.Support\query\data_vault\generic --substring "dbo_" --print_path 
-python substring_by_dir.py --dir C:\git\rea\Datahub\DataHub.Support\query\data_vault\generic --substring "dbo_" --deduplicate --write_to_file result.txt
+python substring_by_dir.py --dir C:\git\dir\subdir\ --substring "dbo_" --print_path 
+python substring_by_dir.py --dir C:\git\dir\subdir\ --substring "dbo_" --deduplicate --write_to_file result.txt
 
 '''
 import os
